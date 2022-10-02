@@ -1,0 +1,15 @@
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\bin\Debug\CleanSlateProtocol.exe.config
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\bin\Debug\CleanSlateProtocol.exe
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\bin\Debug\CleanSlateProtocol.pdb
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.csproj.AssemblyReference.cache
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.csproj.SuggestedBindingRedirects.cache
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.Properties.Resources.resources
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.csproj.GenerateResource.cache
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.csproj.CoreCompileInputs.cache
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.exe
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.pdb
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.EternityForm.resources
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.MainForm.resources
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\bin\Debug\INIFileParser.dll
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\bin\Debug\INIFileParser.xml
+E:\Проекты\CleanSlateProtocol\CleanSlateProtocol\obj\Debug\CleanSlateProtocol.csproj.CopyComplete
